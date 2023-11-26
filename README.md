@@ -8,7 +8,7 @@ Code written by Daniel Santillan.
 
 ## Download Instructions
 
-1. Download the RockPaperScissors.zip file.
+1. Download the RockPaperScissors - Daniel Santillan.zip file.
 2. Extract the .zip file and place the folder anywhere you wish. [^1]
 3. Open the new extracted folder and make your way to the "src" folder.
 4. Open Main.java with any Integrated Development Environment of your choice.
